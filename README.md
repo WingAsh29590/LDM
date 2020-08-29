@@ -1,14 +1,8 @@
-# parsegeonames
-test task to tech company
-### database info
-file with cities you can take here - https://download.geonames.org/export/zip/
+# Реализовать HTTP-сервер для предоставления информации по географическим объектам
+### Данные
+Ссылка на архив - http://download.geonames.org/export/dump/RU.zip
 
 # Тестовое задание для infotecs
-
-### ТЗ:
-
->Реализовать HTTP-сервер для предоставления информации по географическим объектам.
->Данные взять из географической базы данных GeoNames.
 
 ### Реализованный сервер должен предоставлять REST API со следующими методами:
 
